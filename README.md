@@ -45,9 +45,9 @@ send_tx(coin,account,to,amount): Function that signs and sends the transactions.
 
 The most important part is showing that this works!!! Here are examples of sending the transactions to different addresses in my own wallet. Please see the reference.txt file in the Images folder to verify the transactions on the blockchain block explorers.
 
-![directory-tree](Images/Bitcoin_Testnet_Transfer_Complete.png)
+![Bitcoin_Transaction](Images/Bitcoin_Testnet_Transfer_Complete.PNG)
 
-![directory-tree](Images/Ether_Testnet_Transfer_Complete.png)
+![Ether_Transaction](Images/Ether_Testnet_Transfer_Complete.PNG)
 
 
 
